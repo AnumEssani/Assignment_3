@@ -15,9 +15,9 @@ Multi-tasking is when a CPU is provided to execute multiple tasks at a time. Mul
 ![Multi-tasking](https://raw.githubusercontent.com/AnumEssani/Assignment_3/master/Screenshot%20.png)
 
 
-<!-- # Multi-threading:
+# Multi-threading:
 
 Multi-threading is a system in which many threads are created from a process through which the computer power is increased. In multi-threading, CPU is provided in order to execute many threads from a process at a time, and in multi-threading, process creation is performed according to cost. Unlike multitasking, multi-threading provides the same memory and resources to the processes for execution.
 
 
-![Multi-threading](/images/screen1.png) -->
+![Multi-threading](/images/screen1.png)
