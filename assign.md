@@ -12,7 +12,7 @@ The basic difference between Multitasking and multi-threading is that Multi-task
 
 Multi-tasking is when a CPU is provided to execute multiple tasks at a time. Multi-tasking involves often CPU switching between the tasks, so that users can collaborate with each program together. Unlike multi-threading, In multi-tasking, the processes share separate memory and resources. As multitasking involves CPU switching between the tasks rapidly, So the little time is needed in order to switch from the one user to next.
 
-![Multi-tasking](https://raw.githubusercontent.com/AnumEssani/Assignment_3/master/Screenshot%20.png)
+![Multi-tasking](https://raw.githubusercontent.com/AnumEssani/Assignment_3/master/images/screen.png)
 
 
 # Multi-threading:
