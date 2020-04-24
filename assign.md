@@ -29,3 +29,7 @@ Let’s see the difference between multitasking and multi-threading:
 # Comparison Chart
 
 ![comparison chart](/images/screen4.png)
+
+# Conclusion
+
+Multitasking is similar to multi-programming whereas, Multi-threading is thread-based multitasking. Multi-threading is is less costlier than multi-tasking as threads are easy to create then a process.
