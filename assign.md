@@ -21,3 +21,7 @@ Multi-threading is a system in which many threads are created from a process thr
 
 
 ![Multi-threading](/images/screen1.png)
+
+Let’s see the difference between multitasking and multi-threading:
+
+![Multi-threading vs Multi-tasking table](/images/screen3.png)
